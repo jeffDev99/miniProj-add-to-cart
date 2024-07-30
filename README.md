@@ -1,4 +1,6 @@
 a simple mini project for testing context in react.js
+languages and technologies :
+html-css-js-react js
 # Do You Want See This Project?
 See This Project On Vercel : https://mini-proj-add-to-cart.vercel.app/
 
